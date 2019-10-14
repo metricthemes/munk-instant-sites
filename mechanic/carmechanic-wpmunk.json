@@ -1,6 +1,7 @@
 {
     "_recommend_plugins": {
-        "wordpress-importer": "WordPress Importer"
+        "elementor": "Elementor",		
+		"header-footer-composer": "Header Footer Composer for Elementor"
     },
     "home_url": "https:\/\/demo.wpmunk.com\/mechanic\/",
     "menus": {
