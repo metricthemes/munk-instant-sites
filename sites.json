@@ -18,7 +18,7 @@
       "demo_url": "https://demo.wpmunk.com/business/",
       "pro": "",
       "resources": {
-        "xml_url": 'https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.xml',
+        "xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.xml",
         "xml_placeholder_url": null,
         "json_url": null,
         "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.xml",
