@@ -1,7 +1,6 @@
 {
     "_recommend_plugins": {
-        "elementor": "Elementor",		
-		"header-footer-composer": "Header Footer Composer for Elementor"
+        "elementor": "Elementor",
     },
     "home_url": "https:\/\/demo.wpmunk.com\/charity\/",
     "menus": {
