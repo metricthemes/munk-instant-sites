@@ -1,7 +1,7 @@
 {
   "total": "5",
-  "max_num_pages": 2,
-  "paged": 2,
+  "max_num_pages": 5,
+  "paged": 0,
   "categories": {},
   "tags": {},
   "posts": {
@@ -23,7 +23,7 @@
         "json_url": null,
         "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.xml",
         "elementor_xml_placeholder_url": null,
-        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.json",
+        "elementor_json_url": "http://localhost/metric/business/wpmunk-business.json",
         "beaver_builder_xm_url": null,
         "beaver_builder_xml_url": null,
         "beaver_builder_xml_placeholder_url": null,
@@ -58,6 +58,33 @@
       },
       "tags": [],
       "categories": []
-    }	
+    },
+    "mechanic": {
+      "id": 5,
+      "title": "Mechanic",
+      "slug": "mechanic",
+      "desc": "",
+      "excerpt": "",
+      "thumbnail_url": "https://wpmunk.com/wp-content/uploads/2019/09/auto.jpg",
+      "manual_plugins": {
+        "": null
+      },
+      "demo_url": "https://demo.wpmunk.com/mechanic/",
+      "pro": "",
+      "resources": {
+        "xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.xml",
+        "xml_placeholder_url": null,
+        "json_url": null,
+        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.xml",
+        "elementor_xml_placeholder_url": null,
+        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/business/wpmunk-business.json",
+        "beaver_builder_xm_url": null,
+        "beaver_builder_xml_url": null,
+        "beaver_builder_xml_placeholder_url": null,
+        "beaver_builder_json_url": null
+      },
+      "tags": [],
+      "categories": []
+    }			
   }
 }
