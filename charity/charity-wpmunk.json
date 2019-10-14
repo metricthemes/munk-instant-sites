@@ -3,12 +3,12 @@
         "elementor": "Elementor",		
 		"header-footer-composer": "Header Footer Composer for Elementor",
     },
-    "home_url": "https:\/\/demo.wpmunk.com\/business\/",
+    "home_url": "https:\/\/demo.wpmunk.com\/charity\/",
     "menus": {
-        "menu-1": 25
+        "menu-1": 6
     },
     "pages": {
-        "page_on_front": "188",
+        "page_on_front": "25",
         "page_for_posts": "460"
     },
     "options": {
@@ -30,11 +30,11 @@
         },
         "elementor_scheme_typography": {
             "1": {
-                "font_family": "Rajdhani",
+                "font_family": "IBM Plex Sans",
                 "font_weight": "600"
             },
             "2": {
-                "font_family": "Rajdhani",
+                "font_family": "Amiko",
                 "font_weight": "400"
             },
             "3": {
@@ -42,7 +42,7 @@
                 "font_weight": "400"
             },
             "4": {
-                "font_family": "IBM Plex Sans",
+                "font_family": "Amiko",
                 "font_weight": "500"
             }
         },
@@ -51,9 +51,10 @@
     "theme_mods": {
         "0": false,
         "nav_menu_locations": {
-            "menu-1": 25
+            "menu-1": 6
         },
-        "custom_css_post_id": 322,
+        "custom_css_post_id": 482,
+        "custom_logo": 7,
         "munk_color_header_above_ed": {
             "bgcolor": "#f5f6f7",
             "text": "#101010",
@@ -75,7 +76,7 @@
         "munk_color_main_nav_ed": {
             "bgcolor": "#ffffff",
             "link": "#101010",
-            "hover": "#0161bd"
+            "hover": "#605700"
         },
         "munk_color_main_nav_submenu": {
             "bgcolor": "#292E37",
@@ -87,14 +88,14 @@
             "link": "#ffffff"
         },
         "munk_color_footer_widgets": {
-            "bgcolor": "#000e23",
+            "bgcolor": "#292E37",
             "widget-title": "#c5ccd8",
             "text": "#c5ccd8",
             "link": "#c5ccd8",
             "hover": "#c5ccd8"
         },
         "munk_color_footer_copyright": {
-            "bgcolor": "#00051c",
+            "bgcolor": "#262b33",
             "text": "#afb7c5",
             "link": "#afb7c5"
         },
@@ -103,7 +104,8 @@
             "widget-title": "#191919",
             "text": "#212529",
             "link": "#212529",
-            "hover": "#212529"
+            "hover": "#212529",
+            "widget-title-bg": ""
         },
         "munk_color_primary_button": {
             "bgcolor": "#0161bd",
@@ -117,50 +119,39 @@
             "hover-bg": "#292e37",
             "hover-text": "#ffffff"
         },
-        "munk_typography_general_content": {
+        "header_textcolor": "blank",
+        "munk_layout_site_header_above_ed": "two-col",
+        "munk_layout_site_header_above_section_two": "text",
+        "munk_layout_site_header_above_section_two_menu": "4",
+        "munk_layout_site_header_above_section_one_text": "Call Us: 1800-123-456-7890",
+        "munk_typography_main_nav_ed": {
             "font-family": "IBM Plex Sans",
-            "variant": "regular",
-            "font-backup": "",
-            "font-weight": 400,
-            "font-style": "normal"
-        },
-        "munk_typography_general_post_title": {
-            "font-family": "Rajdhani",
-            "variant": "600",
-            "font-size": "30px",
+            "variant": "500",
+            "font-size": "17px",
             "line-height": "1.6",
             "text-transform": "none",
             "font-backup": "",
-            "font-weight": 600,
+            "font-weight": 500,
             "font-style": "normal"
         },
         "munk_layout_footer_ed": "four-col",
-        "custom_logo": 292,
-        "header_textcolor": "blank",
-        "munk_typography_general_post_content": {
-            "font-size": "16px",
+        "munk_layout_site_header_above_section_two_text": "Email: donate@example.com",
+        "header_text": 0,
+        "munk_custom_logo_size_ed": "63",
+        "munk_typography_header_above_ed": {
+            "font-family": "IBM Plex Sans",
+            "variant": "regular",
+            "font-size": "14px",
             "line-height": "1.6",
             "text-transform": "none",
+            "text-align": "center",
             "font-backup": "",
-            "variant": "regular",
-            "font-weight": 400,
-            "font-style": "normal"
-        },
-        "munk_typography_general_post_meta": {
-            "font-size": "13px",
-            "line-height": "1.6",
-            "text-transform": "none",
-            "font-backup": "",
-            "variant": "regular",
             "font-weight": 400,
             "font-style": "normal"
         }
     },
     "widgets": {
         "sidebar-main": {
-            "search-2": {
-                "title": ""
-            },
             "recent-posts-2": {
                 "title": "",
                 "number": 5
@@ -168,31 +159,42 @@
             "recent-comments-2": {
                 "title": "",
                 "number": 5
+            },
+            "archives-2": {
+                "title": "",
+                "count": 0,
+                "dropdown": 0
+            },
+            "categories-2": {
+                "title": "",
+                "count": 0,
+                "hierarchical": 0,
+                "dropdown": 0
             }
         },
         "footer-1": {
             "text-2": {
                 "title": "About Us",
-                "text": "We have over 15 years experience in providing management services to Fortune 500 Companies, Small to Medium Businesses and High Net Worth Individuals",
+                "text": "DoAction \u2014 is a nonprofit organization that seeks to enable thousands of families and individuals in developing countries to achieve lasting self-reliance through online and classroom based job market education and one-on-one mentoring.\r\n\r\n",
                 "filter": true,
                 "visual": true
             }
         },
         "footer-2": {
             "nav_menu-2": {
-                "title": "Explore",
-                "nav_menu": 27
+                "title": "Our Organization",
+                "nav_menu": 6
             }
         },
         "footer-3": {
             "nav_menu-3": {
                 "title": "Resources",
-                "nav_menu": 27
+                "nav_menu": 4
             }
         },
         "footer-4": {
             "recent-posts-3": {
-                "title": "News and Updates",
+                "title": "Latest News",
                 "number": 5,
                 "show_date": false
             }
