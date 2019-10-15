@@ -1,5 +1,8 @@
 {
-    "_recommend_plugins": [],
+    "_recommend_plugins": {
+        "elementor": "Elementor",		
+		"header-footer-composer": "Header Footer Composer for Elementor"
+    },
     "home_url": "https:\/\/demo.wpmunk.com\/marketer\/",
     "menus": {
         "menu-1": 3
