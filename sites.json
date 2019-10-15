@@ -99,12 +99,12 @@
       "demo_url": "https://demo.wpmunk.com/fitness/",
       "pro": "",
       "resources": {
-        "xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/mechanic/carmechanic-wpmunk.xml",
+        "xml_url": null,
         "xml_placeholder_url": null,
         "json_url": null,
-        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/mechanic/carmechanic-wpmunk.xml",
+        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/fitness/wpmunk-fitness.xml",
         "elementor_xml_placeholder_url": null,
-        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/mechanic/carmechanic-wpmunk.json",
+        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/fitness/wpmunk-fitness.json",
         "beaver_builder_xm_url": null,
         "beaver_builder_xml_url": null,
         "beaver_builder_xml_placeholder_url": null,
@@ -112,6 +112,33 @@
       },
       "tags": [],
       "categories": []
-    }				
+    },
+    "marketer": {
+      "id": 7,
+      "title": "Marketer",
+      "slug": "marketer",
+      "desc": "",
+      "excerpt": "",
+      "thumbnail_url": "https://wpmunk.com/wp-content/uploads/2019/09/marketer.jpg",
+      "manual_plugins": {
+        "": null
+      },
+      "demo_url": "https://demo.wpmunk.com/marketer/",
+      "pro": "",
+      "resources": {
+        "xml_url": null,
+        "xml_placeholder_url": null,
+        "json_url": null,
+        "elementor_xml_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/fitness/wpmunk-fitness.xml",
+        "elementor_xml_placeholder_url": null,
+        "elementor_json_url": "https://raw.githubusercontent.com/metricthemes/munk-instant-sites/master/fitness/wpmunk-fitness.json",
+        "beaver_builder_xm_url": null,
+        "beaver_builder_xml_url": null,
+        "beaver_builder_xml_placeholder_url": null,
+        "beaver_builder_json_url": null
+      },
+      "tags": [],
+      "categories": []
+    }					
   }
 }
